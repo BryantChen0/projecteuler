@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffe4f4d8-44b0-459f-9654-1467176daade" name="Changes" comment="...">
+      <change afterPath="$PROJECT_DIR$/problem 31.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem 32.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem 33.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem 34.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem 35.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem 30.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/problem 30.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D4i5WLnlpGfWExwnTkDOQGXRT8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/python/code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffe4f4d8-44b0-459f-9654-1467176daade" name="Changes" comment="" />
+      <created>1659964575120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659964575120</updated>
+      <workItem from="1659964576312" duration="17414000" />
+      <workItem from="1659985892998" duration="2097000" />
+      <workItem from="1660058681997" duration="662000" />
+      <workItem from="1661194752310" duration="789000" />
+      <workItem from="1661196893066" duration="2435000" />
+      <workItem from="1661202748977" duration="6019000" />
+      <workItem from="1661282994483" duration="3052000" />
+      <workItem from="1661286078814" duration="1387000" />
+      <workItem from="1661293901827" duration="4256000" />
+      <workItem from="1661354305490" duration="1222000" />
+      <workItem from="1661356299272" duration="166000" />
+      <workItem from="1661368028365" duration="777000" />
+      <workItem from="1661464488721" duration="82000" />
+      <workItem from="1661464713815" duration="3821000" />
+      <workItem from="1661526192696" duration="9519000" />
+      <workItem from="1661536833791" duration="96000" />
+      <workItem from="1661610508602" duration="6029000" />
+      <workItem from="1661618070859" duration="193000" />
+      <workItem from="1661618295572" duration="918000" />
+      <workItem from="1661698116122" duration="3015000" />
+      <workItem from="1661773033820" duration="199000" />
+      <workItem from="1661947228309" duration="1622000" />
+      <workItem from="1662058954472" duration="9000" />
+      <workItem from="1662475452233" duration="9000" />
+      <workItem from="1662646487675" duration="1840000" />
+      <workItem from="1662648866655" duration="444000" />
+      <workItem from="1662653995426" duration="9490000" />
+      <workItem from="1666301559289" duration="30000" />
+      <workItem from="1666301624455" duration="13000" />
+      <workItem from="1666305212884" duration="7551000" />
+      <workItem from="1666386898486" duration="3640000" />
+      <workItem from="1666472746579" duration="389000" />
+      <workItem from="1666541066073" duration="2089000" />
+      <workItem from="1666619995251" duration="4699000" />
+      <workItem from="1666653642344" duration="1234000" />
+      <workItem from="1666792179438" duration="4276000" />
+      <workItem from="1666879889849" duration="3104000" />
+      <workItem from="1667148606976" duration="982000" />
+      <workItem from="1667227269774" duration="880000" />
+      <workItem from="1667246447093" duration="28000" />
+      <workItem from="1667255165213" duration="106000" />
+      <workItem from="1667255375308" duration="595000" />
+      <workItem from="1667313562896" duration="172000" />
+      <workItem from="1667314359200" duration="647000" />
+      <workItem from="1667333155875" duration="2103000" />
+      <workItem from="1667476535898" duration="94000" />
+      <workItem from="1667594727349" duration="5000" />
+      <workItem from="1667597078771" duration="18000" />
+      <workItem from="1667597148345" duration="44000" />
+      <workItem from="1667658233361" duration="4000" />
+      <workItem from="1667681554365" duration="6000" />
+      <workItem from="1667779796466" duration="2796000" />
+      <workItem from="1667835247439" duration="10000" />
+      <workItem from="1667923936897" duration="32000" />
+      <workItem from="1667928148185" duration="3446000" />
+      <workItem from="1668096471837" duration="1930000" />
+      <workItem from="1668282296115" duration="606000" />
+      <workItem from="1668534720423" duration="1126000" />
+    </task>
+    <task id="LOCAL-00001" summary="...">
+      <created>1666305525948</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666305525948</updated>
+    </task>
+    <task id="LOCAL-00002" summary="...">
+      <created>1666390549479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666390549479</updated>
+    </task>
+    <task id="LOCAL-00003" summary="...">
+      <created>1666541266844</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666541266844</updated>
+    </task>
+    <task id="LOCAL-00004" summary="...">
+      <created>1666653666198</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666653666198</updated>
+    </task>
+    <task id="LOCAL-00005" summary="...">
+      <created>1666653785542</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666653785542</updated>
+    </task>
+    <task id="LOCAL-00006" summary="...">
+      <created>1666881405152</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666881405152</updated>
+    </task>
+    <task id="LOCAL-00007" summary="...">
+      <created>1667224009684</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667224009684</updated>
+    </task>
+    <task id="LOCAL-00008" summary="...">
+      <created>1667246453701</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667246453701</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code$10001.coverage" NAME="第10001个质数 Coverage Results" MODIFIED="1659974087868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
