@@ -23,20 +23,13 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 6,
+   "execution_count": 1,
    "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "{0: 0, 1: 1, 2: 32, 3: 243, 4: 1024, 5: 3125, 6: 7776, 7: 16807, 8: 32768, 9: 59049}\n"
-     ]
-    },
     {
      "data": {
       "text/plain": "443839"
      },
-     "execution_count": 6,
+     "execution_count": 1,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -45,8 +38,6 @@
     "set_square = {}\n",
     "for i in range (10):\n",
     "    set_square[i] = i**5\n",
-    "\n",
-    "print(set_square)\n",
     "\n",
     "def main():\n",
     "    sum = 0\n",

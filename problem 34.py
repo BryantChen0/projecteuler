@@ -3,9 +3,11 @@
   {
    "cell_type": "markdown",
    "source": [
-    "The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.\n",
+    "145 is a curious number, as 1! + 4! + 5! = 1 + 24 + 120 = 145.\n",
     "\n",
-    "Find the sum of all the primes below two million."
+    "Find the sum of all numbers which are equal to the sum of the factorial of their digits.\n",
+    "\n",
+    "Note: As 1! = 1 and 2! = 2 are not sums they are not included."
    ],
    "metadata": {
     "collapsed": false,
@@ -16,30 +18,31 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 59,
+   "execution_count": 3,
    "outputs": [
     {
-     "data": {
-      "text/plain": "77"
-     },
-     "execution_count": 59,
-     "metadata": {},
-     "output_type": "execute_result"
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "40730\n"
+     ]
     }
    ],
    "source": [
-    "import math\n",
-    "def sum_prime(n):\n",
-    "        primes = [True]*n\n",
-    "        primes[0],primes[1] = False,False\n",
-    "        for (i,prime) in enumerate (primes):\n",
-    "                if prime:\n",
-    "                        for j in range (i*i, n, i):\n",
-    "                                primes[j] = False\n",
-    "        return [k for (k,trueprime) in enumerate(primes) if trueprime]\n",
+    "from math import factorial\n",
     "\n",
+    "dict_factorial = {str (n): factorial(n) for n in range(10)}\n",
     "\n",
-    "sum(sum_prime(20))"
+    "sum_all = 0\n",
+    "for i in range (10, 10 ** 7):\n",
+    "    str_num = str(i)\n",
+    "    sum_factorial = 0\n",
+    "    for j in str_num:\n",
+    "        num = dict_factorial [j]\n",
+    "        sum_factorial += num\n",
+    "    if sum_factorial == i:\n",
+    "        sum_all += i\n",
+    "print(sum_all)"
    ],
    "metadata": {
     "collapsed": false,
